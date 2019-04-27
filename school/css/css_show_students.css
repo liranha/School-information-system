@@ -1,0 +1,76 @@
+﻿body {
+    background-color: lightgrey;
+}
+
+.show_students {
+    position: absolute;
+    background-color: lightskyblue;
+    left: 100px;
+    color: black;
+    border: 2px solid #008CBA;
+    font-size: 16px;
+    margin: 4px 2px;
+    width: 200px;
+}
+
+.classes {
+    position: absolute;
+    background-color: lightgreen;
+    left: 350px;
+    color: black;
+    border: 2px solid #008CBA;
+    font-size: 16px;
+    margin: 4px 2px;
+    width: 200px;
+}
+
+
+.mydatagrid {
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    width: 80%;
+    border: solid 2px black;
+    min-width: 80%;
+}
+
+.header {
+    background-color: lightblue;
+    font-family: Arial;
+    color: Black;
+    border: solid;
+    height: 25px;
+    text-align: center;
+    font-size: 16px;
+}
+
+.rows {
+    background-color: #fff;
+    font-family: Arial;
+    font-size: 14px;
+    color: #000;
+    min-height: 25px;
+    text-align: center;
+    border: thick;
+}
+
+.mydatagrid td {
+    padding: 5px;
+}
+
+.mydatagrid th {
+    padding: 5px;
+}
+
+.main_page_link {
+    position: absolute;
+    top: 10px;
+    right: 750px;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}

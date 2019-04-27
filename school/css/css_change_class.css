@@ -1,0 +1,55 @@
+﻿body {
+    background-color: lightgrey;
+}
+
+.form_change_class {
+    position: absolute;
+    top: 200px;
+    height: 200px;
+    width: 400px;
+    right: 500px;
+    padding: 10px 10px 20px 10px;
+    border: 1px solid #BFBFBF;
+    background-color: lightblue;
+    box-shadow: 10px 10px 5px #aaaaaa;
+}
+
+.class_name {
+    position: absolute;
+    right: 45px;
+    width: 200px;
+}
+
+
+.teacher_name {
+    position: absolute;
+    right: 45px;
+    width: 200px;
+}
+.btn_add {
+    position: absolute;
+    background-color: lightgoldenrodyellow;
+    right: 45px;
+    color: black;
+    border: 2px solid #008CBA;
+    font-size: 16px;
+    margin: 4px 2px;
+    width: 200px;
+}
+
+.btn_update {
+    position: absolute;
+    background-color: lightgoldenrodyellow;
+    right: 45px;
+    color: black;
+    border: 2px solid #008CBA;
+    font-size: 16px;
+    margin: 4px 2px;
+    width: 200px;
+}
+
+.main_page_link {
+    position: absolute;
+    top: 150px;
+    right: 600px;
+}

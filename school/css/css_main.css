@@ -1,0 +1,87 @@
+﻿body {
+    background-color:lightcyan;
+}
+
+
+.form_routing {
+    /*position: absolute;
+    top: 200px;
+    height: 300px;
+    width: 500px;
+    right: 300px;*/
+    position: absolute;
+    top: 200px;
+    right:40%;
+    width: 30%;
+    border: solid 2px black;
+    min-width: 30%;
+    padding: 10px 10px 20px 10px;
+    border: 1px solid #BFBFBF;
+    background-color: lightyellow;
+    box-shadow: 10px 10px 5px #aaaaaa;
+}
+
+.add_update_student {
+    /*position: absolute;
+    top: 100px;
+    right: 50px;*/
+    width: 20%;
+    border: solid 2px black;
+    min-width: 20%;
+    background-color: lightblue;
+    color: black;
+    border: 2px solid #008CBA;
+    font-size: 16px;
+    margin: 4px 2px;
+    width: 200px;
+    height: 30px;
+}
+
+.show_students {
+    /*position: absolute;
+    top: 100px;
+    right: 300px;*/
+    width: 20%;
+    border: solid 2px black;
+    min-width: 20%;
+    background-color: lightblue;
+    color: black;
+    border: 2px solid #008CBA;
+    font-size: 16px;
+    margin: 4px 2px;
+    width: 200px;
+    height: 30px;
+}
+
+.add_update_class {
+    /*position: absolute;
+    top: 200px;
+    right: 50px;*/
+    width: 20%;
+    border: solid 2px black;
+    min-width: 20%;
+    background-color: lightblue;
+    color: black;
+    border: 2px solid #008CBA;
+    font-size: 16px;
+    margin: 4px 2px;
+    width: 200px;
+    height: 30px;
+}
+
+.show_classes {
+    /*position: absolute;
+    top: 200px;
+    right: 300px;*/
+    width: 20%;
+    border: solid 2px black;
+    min-width: 20%;
+    background-color: lightblue;
+    color: black;
+    border: 2px solid #008CBA;
+    font-size: 16px;
+    margin: 4px 2px;
+    width: 200px;
+    height: 30px;
+}
+

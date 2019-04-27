@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\school\school\bin\school.dll.config
+C:\Users\user\source\repos\school\school\bin\school.dll
+C:\Users\user\source\repos\school\school\bin\school.pdb
+C:\Users\user\source\repos\school\school\obj\Debug\school.csprojAssemblyReference.cache
+C:\Users\user\source\repos\school\school\obj\Debug\school.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\school\school\obj\Debug\school.dll
+C:\Users\user\source\repos\school\school\obj\Debug\school.pdb
+G:\lupa\SchoolApplication\school\school\bin\school.dll.config
+G:\lupa\SchoolApplication\school\school\bin\school.dll
+G:\lupa\SchoolApplication\school\school\bin\school.pdb
+G:\lupa\SchoolApplication\school\school\obj\Debug\school.csproj.CoreCompileInputs.cache
+G:\lupa\SchoolApplication\school\school\obj\Debug\school.dll
+G:\lupa\SchoolApplication\school\school\obj\Debug\school.pdb
+G:\lupa\SchoolApplication\school\school\obj\Debug\school.csprojAssemblyReference.cache

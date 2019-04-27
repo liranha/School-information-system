@@ -1,0 +1,71 @@
+﻿body {
+    background-color:lightgrey;
+}
+
+.form_change_student {
+    position: absolute;
+    top: 200px;
+    height: 400px;
+    width: 284px;
+    right: 500px;
+    padding: 10px 10px 20px 10px;
+    border: 1px solid #BFBFBF;
+    background-color: lightblue;
+    box-shadow: 10px 10px 5px #aaaaaa;
+}
+
+.id_number {
+    position: absolute;
+    right: 10px;
+}
+
+.first_name {
+    position: absolute;
+    right: 10px;
+}
+
+
+.last_name {
+    position: absolute;
+    right: 10px;
+}
+
+
+.age_pos {
+    position: absolute;
+    right: 10px;
+}
+
+.class_pos {
+    position: absolute;
+    right: 10px;
+    width: 175px;
+}
+
+.btn_add {
+    position: absolute;
+    background-color: lightgoldenrodyellow;
+    right: 10px;
+    color: black;
+    border: 2px solid #008CBA;
+    font-size: 16px;
+    margin: 4px 2px;
+    width: 200px;
+}
+
+.btn_update {
+    position: absolute;
+    background-color: lightgoldenrodyellow;
+    right: 10px;
+    color: black;
+    border: 2px solid #008CBA;
+    font-size: 16px;
+    margin: 4px 2px;
+    width: 200px;
+}
+
+.main_page_link {
+    position: absolute;
+    top: 150px;
+    right: 600px;
+}
